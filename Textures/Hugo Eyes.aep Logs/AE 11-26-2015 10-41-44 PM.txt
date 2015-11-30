@@ -1,0 +1,17 @@
+Adobe After Effects v13.5.1 Windows 64 render log for project “Hugo Eyes.aep”
+
+Rendering started on 11/26/2015 at 10:41:44 PM
+
+  11/26/2015 10:41:44 PM: Starting composition “Comp 2”.
+
+  Output To: C:\Users\thech_000\Documents\SeniorCapstoneRepo\Textures\Hugo Eye\HugoEye\Comp 2_1.mov    11/26/2015 10:42:15 PM: Finished composition “Comp 2”.
+
+
+  11/26/2015 10:42:15 PM: Starting composition “LeftEye”.
+
+  Output To: C:\Users\thech_000\Documents\SeniorCapstoneRepo\Textures\Hugo Eye\LeftEye\LeftEye.[#####].png    11/26/2015 10:55:46 PM: Finished composition “LeftEye”.
+
+
+  Total Time Elapsed: 14 Min, 2 Sec
+Log closed on 11/26/2015 at 10:55:46 PM
+
